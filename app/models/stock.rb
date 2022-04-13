@@ -7,3 +7,4 @@ class Stock < ApplicationRecord
         client.price(ticker_symbol)
     end
 end
+ 
